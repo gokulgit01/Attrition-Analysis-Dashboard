@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project presents an interactive Employee Attrition Analysis Dashboard developed using Tableau to analyze workforce attrition trends and support data-driven HR decision-making. The dashboard explores employee demographics, job-related factors, compensation, and job satisfaction metrics to identify patterns associated with employee turnover.
+This project presents an interactive Employee Attrition Analysis Dashboard developed using Tableau to analyze workforce attrition trends and provide insights into workforce attrition trends while supporting data-driven HR decision-making. The dashboard explores employee demographics, job-related factors, compensation, and satisfaction metrics to identify patterns associated with employee turnover.
 
-By combining key performance indicators with interactive visualizations, the dashboard enables users to understand attrition across different employee segments and uncover workforce trends that support effective employee retention strategies.
+By combining key performance indicators with interactive visualizations, the dashboard enables users to understand attrition across different employee segments and supports data-driven workforce planning.
 
 ---
 
@@ -14,7 +14,7 @@ By combining key performance indicators with interactive visualizations, the das
 - Identify departments and employee groups with higher turnover.
 - Evaluate the impact of age, gender, education, income, and work-life balance on attrition.
 - Explore job satisfaction across different job roles.
-- Present interactive visualizations to support HR decision-making.
+- Provide interactive insights to support HR decision-making.
 
 ---
 
@@ -79,7 +79,7 @@ The dashboard includes:
 
 ## Key Insights
 
-The dashboard highlights several workforce trends:
+The analysis reveals several notable workforce trends:
 
 - Human Resources records the highest employee attrition among departments.
 - Employees in the early stages of their careers experience higher turnover.
@@ -94,7 +94,7 @@ These insights can help organizations identify potential retention challenges an
 
 ## Business Value
 
-This dashboard helps HR teams to:
+This dashboard enables HR professionals to:
 
 - Monitor employee turnover trends.
 - Identify high-risk employee segments.
